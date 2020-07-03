@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi
+
+![](https://secure.gravatar.com/avatar/42c5bbf957f3ac0385fb5694d40992ef?size=500)
 
 <!--
 **mika76/mika76** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
