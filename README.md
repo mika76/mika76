@@ -2,7 +2,7 @@
 
 ![](https://secure.gravatar.com/avatar/42c5bbf957f3ac0385fb5694d40992ef?size=64)
 
-[![mika's github stats](https://github-readme-stats.vercel.app/api?username=mika76)](https://github.com/anuraghazra/github-readme-stats)
+[![mika's github stats](https://github-readme-stats.vercel.app/api?username=mika76&show_icons=true&theme=ayu-mirage)](https://github.com/anuraghazra/github-readme-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=mika76&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
