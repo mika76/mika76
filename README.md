@@ -6,8 +6,6 @@
 
 [![trophy](https://trophygithubreadmelang.cybee.dpdns.org/?username=mika76&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Source Karma badge for @mika76](https://sourcekarma-og.vercel.app/api/mika76/github)](https://sourcekarma.vercel.app/mika76)
-
 <!--
 **mika76/mika76** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
