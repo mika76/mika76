@@ -4,7 +4,7 @@
 
 [![mika's GitHub stats](https://github-stats-extended.vercel.app/api?username=mika76&show_icons=true&theme=ayu-mirage)](https://github.com/stats-organization/github-stats-extended)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=mika76&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://trophygithubreadmelang.cybee.dpdns.org/?username=mika76&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Source Karma badge for @mika76](https://sourcekarma-og.vercel.app/api/mika76/github)](https://sourcekarma.vercel.app/mika76)
 
